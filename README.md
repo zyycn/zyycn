@@ -1,16 +1,16 @@
-## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=zyycn&style=flat-square&color=orange)
 
-<!--
-**zyycn/zyycn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://tokscale.ai/api/embed/zyycn/svg?template=graph&theme=dark&color=green&rank=percent&tokens=full&cost=compact"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://tokscale.ai/api/embed/zyycn/svg?template=graph&theme=light&color=green&rank=percent&tokens=full&cost=compact"
+  />
+  <img
+    src="https://tokscale.ai/api/embed/zyycn/svg?template=graph&theme=light&color=green&rank=percent&tokens=full&cost=compact"
+    alt="TokScale token usage graph"
+  />
+</picture>
