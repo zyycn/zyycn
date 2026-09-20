@@ -21,5 +21,6 @@ Building open-source AI infrastructure with Rust.
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyycn&theme=default"
     alt="Zyy's GitHub profile summary"
+    width="100%"
   />
 </picture>
